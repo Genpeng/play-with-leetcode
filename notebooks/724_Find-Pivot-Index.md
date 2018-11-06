@@ -44,23 +44,29 @@ Each element `nums[i]` will be an integer in the range `[-1000, 1000]`.
 ```java
 class Solution {
     public int pivotIndex(int[] nums) {
+        if (nums == null || nums.length == 0) {
+            return -1;
+        }
+        
         int leftSum = 0, rightSum = 0;
         for (int num : nums) {
             rightSum += num;
         }
-        for (int i=0; i<nums.length; i++) {
+        
+        for (int i = 0; i < nums.length; ++i) {
             rightSum -= nums[i];
             if (leftSum == rightSum) {
                 return i;
             }
             leftSum += nums[i];
         }
+        
         return -1;
     }
 }
 ```
 
-Runtime: **42 ms**
+Runtime: **39 ms**. Your runtime beats 72.58 % of java submissions. 
 
 ### Python solution
 
@@ -71,14 +77,17 @@ class Solution:
         :type nums: List[int]
         :rtype: int
         """
-        left_sum = 0
-        right_sum = sum(nums)
-        for i, x in enumerate(nums):
-            right_sum -= x
+        if nums is None or len(nums) == 0:
+            return -1
+        
+        left_sum, right_sum = 0, sum(nums)
+        for index, num in enumerate(nums):
+            right_sum -= num
             if left_sum == right_sum:
-                return i
-            left_sum += x
+                return index
+            left_sum += num
+            
         return -1
 ```
 
-Runtime: **76 ms**
+Runtime: **72 ms**. Your runtime beats 96.94 % of python3 submissions. 
