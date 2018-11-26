@@ -46,4 +46,5 @@
 | 19   | [删除链表的倒数第N个节点](https://blog.csdn.net/x273591655/article/details/83825297) | 链表,双指针          | 中等 |
 | 347  | [前K个高频元素](https://blog.csdn.net/x273591655/article/details/84001236) | 堆,队列,优先队列     | 中等 |
 | 24   | [两两交换链表中的节点](https://blog.csdn.net/x273591655/article/details/84330800) | 链表                 | 中等 |
+| 25   | [k个一组翻转链表](https://blog.csdn.net/x273591655/article/details/84558566) | 链表                 | 困难 |
 
