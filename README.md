@@ -47,4 +47,5 @@
 | 347  | [前K个高频元素](https://blog.csdn.net/x273591655/article/details/84001236) | 堆,队列,优先队列     | 中等 |
 | 24   | [两两交换链表中的节点](https://blog.csdn.net/x273591655/article/details/84330800) | 链表                 | 中等 |
 | 25   | [k个一组翻转链表](https://blog.csdn.net/x273591655/article/details/84558566) | 链表                 | 困难 |
+| 844  | [比较含退格的字符串](https://blog.csdn.net/x273591655/article/details/84595069) | 栈,双指针            | 简单 |
 
