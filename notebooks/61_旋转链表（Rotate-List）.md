@@ -1,4 +1,4 @@
-> 创建时间：2018年11月6日
+> 更多 LeetCode 题解笔记可以访问我的 [github](https://github.com/Genpeng/play-with-leetcode)。
 
 [TOC]
 
