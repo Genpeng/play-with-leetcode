@@ -49,4 +49,5 @@
 | 25   | [k个一组翻转链表](https://blog.csdn.net/x273591655/article/details/84558566) | 链表                 | 困难 |
 | 844  | [比较含退格的字符串](https://blog.csdn.net/x273591655/article/details/84595069) | 栈,双指针            | 简单 |
 | 232  | [用栈实现队列](https://blog.csdn.net/x273591655/article/details/84680072) | 栈,队列              | 简单 |
+| 225  | [用队列实现栈](https://blog.csdn.net/x273591655/article/details/84729232) | 栈,队列              | 简单 |
 
