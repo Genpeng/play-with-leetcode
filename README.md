@@ -25,7 +25,7 @@
 | 21   | [合并两个有序链表](https://blog.csdn.net/x273591655/article/details/83380899) | 链表                 |                                                              | 简单 |
 | 54   | 螺旋矩阵                                                     | 数组                 |                                                              | 中等 |
 | 61   | [旋转链表](https://blog.csdn.net/x273591655/article/details/83784151) | 链表,双指针          |                                                              | 中等 |
-| 66   | 加一                                                         | 数组,数学            |                                                              | 简单 |
+| 66   | 加一                                                         | 数组,数学            | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/lc66/Solution.java),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc66/solution.py) | 简单 |
 | 94   | [二叉树的中序遍历](https://blog.csdn.net/x273591655/article/details/83027962) | 树,二叉树            |                                                              | 简单 |
 | 102  | 二叉树的层序遍历                                             | 树,二叉树            |                                                              | 简单 |
 | 136  | [只出现一次的数字](https://blog.csdn.net/x273591655/article/details/83268930) | 数组,Map,数学,位运算 |                                                              | 简单 |
