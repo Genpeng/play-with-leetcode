@@ -32,7 +32,7 @@
 | 141  | [环形链表](https://blog.csdn.net/x273591655/article/details/83343679) | 链表,双指针          |                                                              | 简单 |
 | 142  | [环形链表Ⅱ](https://blog.csdn.net/x273591655/article/details/83759373) | 链表,双指针          |                                                              | 中等 |
 | 160  | [相交链表](https://blog.csdn.net/x273591655/article/details/83759373) | 链表,双指针          |                                                              | 简单 |
-| 169  | [求众数](https://blog.csdn.net/x273591655/article/details/83574810) | 数组                 |                                                              | 简单 |
+| 169  | [求众数](https://blog.csdn.net/x273591655/article/details/83574810) | 数组                 | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/tree/master/src/lc169),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc169/solution.py) | 简单 |
 | 203  | 移除链表元素                                                 | 链表                 |                                                              | 简单 |
 | 206  | [反转链表](https://blog.csdn.net/x273591655/article/details/83306135) | 链表                 |                                                              | 简单 |
 | 231  | [2的幂](https://blog.csdn.net/x273591655/article/details/83715198) | 数学                 |                                                              | 简单 |
