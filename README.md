@@ -38,7 +38,7 @@
 | 231  | [2的幂](https://blog.csdn.net/x273591655/article/details/83715198) | 数学                 |                                                              | 简单 |
 | 237  | [删除链表中的节点](https://blog.csdn.net/x273591655/article/details/83374572) | 链表                 |                                                              | 简单 |
 | 349  | [两个数组的交集](https://blog.csdn.net/x273591655/article/details/83058256) | 数组                 | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/tree/master/src/lc349),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc349/solution.py) | 简单 |
-| 350  | [两个数组的交集Ⅱ](https://blog.csdn.net/x273591655/article/details/83060347) | 数组                 |                                                              | 简单 |
+| 350  | [两个数组的交集Ⅱ](https://blog.csdn.net/x273591655/article/details/83060347) | 数组                 | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/tree/master/src/lc350),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc350/solution.py) | 简单 |
 | 498  | 对角线遍历                                                   | 数组                 |                                                              | 中等 |
 | 530  | [二分搜索树的最小绝对值差](https://blog.csdn.net/x273591655/article/details/82999627) | 树,二分搜索树        |                                                              | 简单 |
 | 724  | 寻找数组的中心索引                                           | 数组                 |                                                              | 简单 |
