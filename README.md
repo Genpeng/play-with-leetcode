@@ -41,7 +41,7 @@
 | 350  | [两个数组的交集Ⅱ](https://blog.csdn.net/x273591655/article/details/83060347) | 数组                 | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/tree/master/src/lc350),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc350/solution.py) | 简单 |
 | 498  | 对角线遍历                                                   | 数组                 |                                                              | 中等 |
 | 530  | [二分搜索树的最小绝对值差](https://blog.csdn.net/x273591655/article/details/82999627) | 树,二分搜索树        |                                                              | 简单 |
-| 724  | 寻找数组的中心索引                                           | 数组                 |                                                              | 简单 |
+| 724  | 寻找数组的中心索引                                           | 数组                 | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/lc724/Solution.java),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc724/solution.py) | 简单 |
 | 747  | 至少是其他数字两倍的最大数                                   | 数组                 |                                                              | 简单 |
 | 804  | 唯一的摩尔斯密码词                                           | 集合                 |                                                              | 简单 |
 | 19   | [删除链表的倒数第N个节点](https://blog.csdn.net/x273591655/article/details/83825297) | 链表,双指针          |                                                              | 中等 |
