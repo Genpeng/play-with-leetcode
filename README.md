@@ -53,5 +53,5 @@
 | 225  | [用队列实现栈](https://blog.csdn.net/x273591655/article/details/84729232) | 栈,队列              |                                                              | 简单 |
 | 692  | 前K个高频单词                                                | 堆,优先队列          |                                                              | 中等 |
 | 703  | 数据流中的第K大元素                                          | 堆,优先队列          |                                                              | 简单 |
-| 283  | 移动零                                                       | 数组,双指针          |                                                              | 简单 |
+| 283  | 移动零                                                       | 数组,双指针          | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/tree/master/src/lc283),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc283/solution.py) | 简单 |
 | 3    | [无重复字符的最长子串](https://blog.csdn.net/x273591655/article/details/84958536) | 字符串,双指针        |                                                              | 中等 |
