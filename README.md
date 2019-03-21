@@ -18,7 +18,7 @@
 | #    | 题名                                                         | 标签                 | 解答                                                         | 难度 |
 | ---- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------ | ---- |
 | 1    | 两数之和                                                     | 数组,哈希表          | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/array/leetcode1/Solution.java),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc1/solution.py) | 简单 |
-| 2    | [两数相加](https://blog.csdn.net/x273591655/article/details/83013740) | 链表                 |                                                              | 中等 |
+| 2    | [两数相加](https://blog.csdn.net/x273591655/article/details/83013740) | 链表                 | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/tree/master/src/lc2),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc2/solution.py) | 中等 |
 | 7    | [反转整数](https://blog.csdn.net/x273591655/article/details/83178569) | 数学                 |                                                              | 简单 |
 | 9    | [回文数](https://blog.csdn.net/x273591655/article/details/83578572) | 数学                 |                                                              | 简单 |
 | 20   | [有效的括号](https://blog.csdn.net/x273591655/article/details/83500912) | 字符串,栈            |                                                              | 简单 |
