@@ -22,7 +22,7 @@
 | 7    | [反转整数](https://blog.csdn.net/x273591655/article/details/83178569) | 数学                 |                                                              | 简单 |
 | 9    | [回文数](https://blog.csdn.net/x273591655/article/details/83578572) | 数学                 |                                                              | 简单 |
 | 20   | [有效的括号](https://blog.csdn.net/x273591655/article/details/83500912) | 字符串,栈            |                                                              | 简单 |
-| 21   | [合并两个有序链表](https://blog.csdn.net/x273591655/article/details/83380899) | 链表                 |                                                              | 简单 |
+| 21   | [合并两个有序链表](https://blog.csdn.net/x273591655/article/details/83380899) | 链表                 | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/tree/master/src/lc21),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc21/solution.py) | 简单 |
 | 54   | 螺旋矩阵                                                     | 数组                 |                                                              | 中等 |
 | 61   | [旋转链表](https://blog.csdn.net/x273591655/article/details/83784151) | 链表,双指针          |                                                              | 中等 |
 | 66   | 加一                                                         | 数组,数学            | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/lc66/Solution.java),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc66/solution.py) | 简单 |
