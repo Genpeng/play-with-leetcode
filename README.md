@@ -34,7 +34,7 @@
 | 160  | [相交链表](https://blog.csdn.net/x273591655/article/details/83759373) | 链表,双指针          |                                                              | 简单 |
 | 169  | [求众数](https://blog.csdn.net/x273591655/article/details/83574810) | 数组                 | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/tree/master/src/lc169),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc169/solution.py) | 简单 |
 | 203  | 移除链表元素                                                 | 链表                 |                                                              | 简单 |
-| 206  | [反转链表](https://blog.csdn.net/x273591655/article/details/83306135) | 链表                 |                                                              | 简单 |
+| 206  | [反转链表](https://blog.csdn.net/x273591655/article/details/83306135) | 链表                 | [Java](<https://github.com/Genpeng/leetcode-challenges-with-java/tree/master/src/lc206>),[Python](<https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc206/solution.py>) | 简单 |
 | 231  | [2的幂](https://blog.csdn.net/x273591655/article/details/83715198) | 数学                 |                                                              | 简单 |
 | 237  | [删除链表中的节点](https://blog.csdn.net/x273591655/article/details/83374572) | 链表                 |                                                              | 简单 |
 | 349  | [两个数组的交集](https://blog.csdn.net/x273591655/article/details/83058256) | 数组                 | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/tree/master/src/lc349),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc349/solution.py) | 简单 |
