@@ -82,13 +82,18 @@ TODO：添加 C++ 语言的解答
 
 ## 链表专题
 
-| #    | 题名            | 难度   | 标签        | C++ 解答 | Java 解答 | Python 解答 |
-| ---- | --------------- | ------ | ----------- | -------- | --------- | ----------- |
-| 2    | Add Two Numbers | Medium | linked list |          |           |             |
-|      |                 |        |             |          |           |             |
-|      |                 |        |             |          |           |             |
-|      |                 |        |             |          |           |             |
-|      |                 |        |             |          |           |             |
+| #    | 题名                             | 难度   | 标签                     | C++ 解答 | Java 解答                                                    | Python 解答                                                  |
+| ---- | -------------------------------- | ------ | ------------------------ | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2    | Add Two Numbers                  | Medium | linked list              |          | [[1]](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/linked_list/lc0002_add_two_numbers/Solution1.java),[[2]](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/linked_list/lc0002_add_two_numbers/Solution2.java) | [solution](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/linked_list/lc0002_add_two_numbers/solution.py) |
+| 19   | Remove Nth Node From End of List | Medium | linked list,two pointers |          | [[1]](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/linked_list/lc0019_remove_nth_node_from_end_of_list/Solution.java) | [solution](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/linked_list/lc0019_remove_nth_from_end_of_list/solution.py) |
+| 21   | Merge Two Sorted Lists           | Easy   | linked list,two pointers |          | [[1]](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/linked_list/lc0021_merge_two_sorted_lists/Solution1.java),[[2]](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/linked_list/lc0021_merge_two_sorted_lists/Solution2.java) | [solution](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/linked_list/lc0021_merge_two_sorted_lists/solution.py) |
+|      |                                  |        |                          |          |                                                              |                                                              |
+|      |                                  |        |                          |          |                                                              |                                                              |
+|      |                                  |        |                          |          |                                                              |                                                              |
+|      |                                  |        |                          |          |                                                              |                                                              |
+|      |                                  |        |                          |          |                                                              |                                                              |
+|      |                                  |        |                          |          |                                                              |                                                              |
+|      |                                  |        |                          |          |                                                              |                                                              |
 
 ## 树专题
 
