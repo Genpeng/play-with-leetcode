@@ -55,3 +55,57 @@
 | 703  | 数据流中的第K大元素                                          | 堆,优先队列          |                                                              | 简单 |
 | 283  | 移动零                                                       | 数组,双指针          | [Java](https://github.com/Genpeng/leetcode-challenges-with-java/tree/master/src/lc283),[Python](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/lc283/solution.py) | 简单 |
 | 3    | [无重复字符的最长子串](https://blog.csdn.net/x273591655/article/details/84958536) | 字符串,双指针        |                                                              | 中等 |
+
+TODO：添加 C++ 语言的解答
+
+## 数组专题
+
+| #    | 题名 | 难度 | 标签 | C++ 解答 | Java 解答 | Python 解答 |
+| ---- | ---- | :--: | :--: | :------: | :-------: | :---------: |
+|      |      |      |      |          |           |             |
+|      |      |      |      |          |           |             |
+|      |      |      |      |          |           |             |
+|      |      |      |      |          |           |             |
+|      |      |      |      |          |           |             |
+|      |      |      |      |          |           |             |
+
+## 字符串专题
+
+| #    | 题名           | 难度 |    标签    | C++ 解答 |                          Java 解答                           |                         Python 解答                          |
+| ---- | -------------- | :--: | :--------: | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 890  | 查找和替换模式 | 中等 | string,map |          | [[1]](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/string/lc0890_find_and_replace_pattern/Solution1.java),[[2]](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/string/lc0890_find_and_replace_pattern/Solution2.java),[[3]](https://github.com/Genpeng/leetcode-challenges-with-java/blob/master/src/string/lc0890_find_and_replace_pattern/Solution3.java) | [solution](https://github.com/Genpeng/leetcode-challenges-with-python/blob/master/PyLeetCode/string/lc0890_find_and_replace_pattern/solution.py) |
+|      |                |      |            |          |                                                              |                                                              |
+|      |                |      |            |          |                                                              |                                                              |
+|      |                |      |            |          |                                                              |                                                              |
+|      |                |      |            |          |                                                              |                                                              |
+|      |                |      |            |          |                                                              |                                                              |
+
+## 链表专题
+
+| #    | 题名            | 难度   | 标签        | C++ 解答 | Java 解答 | Python 解答 |
+| ---- | --------------- | ------ | ----------- | -------- | --------- | ----------- |
+| 2    | Add Two Numbers | Medium | linked list |          |           |             |
+|      |                 |        |             |          |           |             |
+|      |                 |        |             |          |           |             |
+|      |                 |        |             |          |           |             |
+|      |                 |        |             |          |           |             |
+
+## 树专题
+
+| #    | 题名                                                         | 难度   | 标签     | C++ 解答 | Java 解答 | Python 解答 |
+| ---- | ------------------------------------------------------------ | ------ | -------- | -------- | --------- | ----------- |
+| 236  | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium | tree,dfs |          |           |             |
+|      |                                                              |        |          |          |           |             |
+|      |                                                              |        |          |          |           |             |
+|      |                                                              |        |          |          |           |             |
+|      |                                                              |        |          |          |           |             |
+
+## 动态规划专题
+
+| #    | 题名 | 难度 | 标签 | C++ 解答 | Java 解答 | Python 解答 |
+| ---- | ---- | ---- | ---- | -------- | --------- | ----------- |
+|      |      |      |      |          |           |             |
+|      |      |      |      |          |           |             |
+|      |      |      |      |          |           |             |
+|      |      |      |      |          |           |             |
+|      |      |      |      |          |           |             |
